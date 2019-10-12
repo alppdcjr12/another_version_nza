@@ -1,0 +1,25 @@
+body {
+    background-image: url("wood_panel.png");
+    background-color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav_main {
+    background-color: #ffffff;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.simple {
+    background-color: #ffffff;
+    color: black;
+}
+
+.image_format {
+    max-width: 100%;
+    height: auto;
+    border-style: double;
+}
