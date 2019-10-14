@@ -68,6 +68,20 @@ a.compressed_red_box:hover {
     color: powderblue;
 }
 
+a.red_box_contact:hover {
+    color: powderblue;
+}
+
+.red_box_contact {
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: -2px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    line-height: 1.1rem;
+}
+
 .small_paragraph {
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     line-height: 0.9rem;
@@ -89,4 +103,16 @@ a.compressed_red_box:hover {
     text-align: center;
     margin-bottom: 10px;
     margin-top: -3px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.news_scroll {
+    max-height: 360px;
+    overflow: auto;
+    margin-bottom: 15px;
 }
